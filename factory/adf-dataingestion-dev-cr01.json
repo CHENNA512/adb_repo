@@ -1,0 +1,9 @@
+{
+	"name": "adf-dataingestion-dev-cr01",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0e809f91-aaf1-4949-96a9-4a36542c2297",
+		"tenantId": "a2a56ead-b126-4304-9e53-386c1ce24e9b"
+	}
+}
